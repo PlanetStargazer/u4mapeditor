@@ -1,0 +1,14 @@
+WORLD.MAP
+bin/distribute.bat
+bin/OpenAL32.dll
+bin/SDL2.dll
+bin/license.txt
+bin/love.dll
+bin/love.exe
+bin/lua51.dll
+bin/mpg123.dll
+bin/msvcp120.dll
+bin/msvcr120.dll
+bin/u4mapviewer.exe
+bin/u4mapviewer.love
+bin/u4mapviewer_win32.zip
