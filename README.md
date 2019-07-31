@@ -10,6 +10,8 @@ If you don't want to use the mouse, you can move the cursor within a chunk by th
 
 You can save changes by pressing Ctrl+X.
 
+By using F1 to F4 you can switch between the following tilesets: C64, EGA, John Steele EGA, John Steele VGA.
+
 Since my dream goal is writing a CRPG inspired by the early Ultima games, I started working on a proper game engine which is actually included in the editor at the moment. By pressing TAB you can switch between the editor and the "game". The game allows the avatar to move around the world map by using WASD. If you want to mute the background music, press M. In the editor mode you can press J to jump to the chunk the avatar is in.
 
 Please let me know what you think about my little project. Every comment is appreciated!
